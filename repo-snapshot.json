@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-17T00:00:08Z",
+  "source_commit": "c42c93647c5b0a34c0e03ed506f9b3b9b3030df0",
+  "repo": {
+    "id": "pirate-bug-report",
+    "full_name": "kaibuzz0/pirate-bug-report",
+    "url": "https://github.com/kaibuzz0/pirate-bug-report",
+    "default_branch": "master"
+  },
+  "stats": {
+    "tracked_files": 11,
+    "python_files": 0,
+    "javascript_typescript_files": 0,
+    "workflow_files": 1,
+    "test_files": 8
+  },
+  "tools": [],
+  "toolsets": [],
+  "cases": [],
+  "opportunities": [],
+  "intelligence": [],
+  "sources": [],
+  "prompts": [],
+  "evidence": [],
+  "agent_ops": {},
+  "activity": [
+    {
+      "id": "c42c93647c5b0a34c0e03ed506f9b3b9b3030df0",
+      "type": "commit",
+      "title": "Connect repository to GitHub Command Site",
+      "timestamp": "2026-08-16T18:59:59-05:00",
+      "url": "https://github.com/kaibuzz0/pirate-bug-report/commit/c42c93647c5b0a34c0e03ed506f9b3b9b3030df0"
+    },
+    {
+      "id": "3677e96f75fa51f6b95c9d641ea16f01826899e6",
+      "type": "commit",
+      "title": "Initial commit: Pirate Chain code quality report",
+      "timestamp": "2026-07-25T06:17:32Z",
+      "url": "https://github.com/kaibuzz0/pirate-bug-report/commit/3677e96f75fa51f6b95c9d641ea16f01826899e6"
+    }
+  ],
+  "links": [
+    {
+      "id": "github",
+      "name": "GitHub repository",
+      "url": "https://github.com/kaibuzz0/pirate-bug-report"
+    },
+    {
+      "id": "actions",
+      "name": "GitHub Actions",
+      "url": "https://github.com/kaibuzz0/pirate-bug-report/actions"
+    },
+    {
+      "id": "issues",
+      "name": "Issues",
+      "url": "https://github.com/kaibuzz0/pirate-bug-report/issues"
+    }
+  ]
+}
